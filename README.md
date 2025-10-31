@@ -1,5 +1,5 @@
-Name : Jebin Raj J
-Reg No : 212224030012
+Name : NISHANTH S
+Reg No : 212224060175
 
 # ExpNo:10 Implementation of Classical Planning Algorithm
 # Algorithm or Steps Involved:
